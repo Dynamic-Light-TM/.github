@@ -1,4 +1,4 @@
-## Hi there 👋
+## We are developers and gamers who love what we do. You can find public repositories here.
 
 <!--
 
